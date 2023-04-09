@@ -1,5 +1,5 @@
 # EDA-Machine-Learning-Approach-For-Predicting-Titanic-Survival
-EDA-Machine-Learning-Approach-For-Predicting-Titanic-Survival
+
 ## Accuracy Score
 Model Accuray Score on test datasets is __0.79186__ after submitting the submission to the kaggle titanic competition.
 
