@@ -1,11 +1,11 @@
 # EDA-Machine-Learning-Approach-For-Predicting-Titanic-Survival
 
-In this project, I analyzed the Titanic dataset using exploratory data analysis (EDA) techniques and built a machine learning model to predict the survival of Titanic passengers with an accuracy score of 79.186%.
+In this project, I analyzed the Titanic dataset using exploratory data analysis (EDA) techniques and built a machine learning model to predict the survival of Titanic passengers with an accuracy score of 79.425%.
 
 ## Accuracy Score
-Model Accuray Score on test datasets is __0.79186__ after submitting the submission to the kaggle titanic competition.
+Model Accuray Score on test datasets is __0.79425__ after submitting the submission to the kaggle titanic competition.
 
-![titanic_score1](https://user-images.githubusercontent.com/105104702/230785095-c221916f-8be6-4c81-a2e1-d406219b1afc.png)
+![titanic_accuracy](https://user-images.githubusercontent.com/105104702/233075834-939dd6e3-8850-4854-bb5f-c099942035de.png)
 
 ## Summary
 1. Datasets contains 1309 rows and 12 columnns.
